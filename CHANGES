@@ -1,0 +1,31 @@
+CHANGES for thunar-sendto-clamtk:
+
+0.06 - XX XXX 2016
+------------------
+        * Updated strings: Romanian (ro), English (en_AU),
+          Italian (it), Korean (ko_KR)
+        * Updated links, info in README
+
+0.05 - 15 Mar 2014
+------------------
+        * Updated strings: Dutch (nl), Czech (cs), Punjabi (pa),
+          Serbian Latin (sr@latin), Marathi (mr), Brazilian
+          Portuguese (pt_BR), Portuguese (pt), French (fr),
+          probably others
+
+0.04 - 6 Nov 2013
+------------------
+        * Updated all files.
+
+0.03 - 20 Apr 2012
+------------------
+	* Updated language fields.
+	* Updated LICENSE file.
+
+0.02 - 12 Aug 2011
+------------------
+	* Lots of updates: languages and fields.
+
+0.01 - 3 July 2010
+------------------
+        * Initial release.
