@@ -2,8 +2,7 @@ README
 ------
 
 thunar-sendto-clamtk is a simple plugin to allow a right-click,
-context menu scan of files or folders in Thunar, which
-is XFCE's file manager.
+context menu scan of files or folders in Thunar, XFCE's file manager.
 
 All this plugin does is copy a desktop file to Thunar's send-to
 directory.  If this seems redundant, that's because it is:
@@ -24,7 +23,6 @@ Thunar
 LINKS
 -----
 
-https://dave-theunsub.github.io/clamtk/
 https://github.com/dave-theunsub/thunar-sendto-clamtk
 https://gitlab.com/dave_m/thunar-sendto-clamtk
 https://bitbucket.org/dave_theunsub/thunar-sendto-clamtk/
@@ -34,5 +32,5 @@ http://standards.freedesktop.org/desktop-entry-spec/latest/
 CONTACT
 -------
 
-email : Dave M, dave.nerd AT gmail DOT com
+Dave M, dave.nerd AT gmail DOT com
 0x6ADA59DE

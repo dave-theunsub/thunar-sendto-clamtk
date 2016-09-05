@@ -1,10 +1,10 @@
 CHANGES for thunar-sendto-clamtk:
 
-0.06 - XX XXX 2016
+0.06 - 5 Sep 2016
 ------------------
         * Updated strings: Romanian (ro), English (en_AU),
           Italian (it), Korean (ko_KR)
-        * Updated links, info in README
+        * Updated documentation and links
 
 0.05 - 15 Mar 2014
 ------------------
