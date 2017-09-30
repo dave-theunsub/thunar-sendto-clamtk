@@ -1,11 +1,12 @@
 CHANGES for thunar-sendto-clamtk:
 
-0.06 - 5 Sep 2016
+0.06 - 29 Sep 2017
 ------------------
     * Updated strings: Romanian (ro), English (en_AU),
         Italian (it), Korean (ko_KR), Afrikaans (af), English (en_AU),
         Esperanto (eo), Basque (eu), Punjabi (pa)
     * Updated documentation and links
+    * Change compression gz -> xz
 
 0.05 - 15 Mar 2014
 ------------------
