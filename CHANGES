@@ -1,33 +1,41 @@
 CHANGES for thunar-sendto-clamtk:
 
-0.06 - 29 Sep 2017
-------------------
+0.07 - 20211107
+---------------
+    * Update README to use markdown (README.md)
+    * Fix incorrect issues link in man page
+    * Minor updates to other files to modernize
+    * Add license information relating to Launchpad's new terms
+    * Updated strings: Khmer (km), Thai (th)
+
+0.06 - 20170929
+---------------
     * Updated strings: Romanian (ro), English (en_AU),
         Italian (it), Korean (ko_KR), Afrikaans (af), English (en_AU),
         Esperanto (eo), Basque (eu), Punjabi (pa)
     * Updated documentation and links
     * Change compression gz -> xz
 
-0.05 - 15 Mar 2014
-------------------
+0.05 - 20140315
+---------------
     * Updated strings: Dutch (nl), Czech (cs), Punjabi (pa),
     Serbian Latin (sr@latin), Marathi (mr), Brazilian
     Portuguese (pt_BR), Portuguese (pt), French (fr),
     probably others
 
-0.04 - 6 Nov 2013
-------------------
-    * Updated all files.
+0.04 - 20131106
+---------------
+    * Updated all files
 
-0.03 - 20 Apr 2012
-------------------
-    * Updated language fields.
-    * Updated LICENSE file.
+0.03 - 20120420
+---------------
+    * Updated language fields
+    * Updated LICENSE file
 
-0.02 - 12 Aug 2011
-------------------
-    * Lots of updates: languages and fields.
+0.02 - 20110812
+---------------
+    * Lots of updates: languages and fields
 
-0.01 - 3 July 2010
-------------------
-    * Initial release.
+0.01 - 20100703
+---------------
+    * Initial release
