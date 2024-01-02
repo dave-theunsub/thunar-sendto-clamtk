@@ -1,4 +1,4 @@
-# thunar-sendto-clamtk 0.07
+# thunar-sendto-clamtk 0.08
 [Desktop Entry]
 Name=ClamTk
 GenericName=Virus Scanner
@@ -31,13 +31,14 @@ GenericName[it]=Analizzatore virus
 GenericName[ja]=ウイルススキャナ
 GenericName[ko]=바이러스 검사기
 GenericName[lt]=Virusų suradimo programa
+GenericName[mnw_MM]=အရာမဂၠိုက်ဂၠာဲ စၟဳစၟတ်စၟ
 GenericName[mr]=धमक्या साठी स्कॅन
 GenericName[ms]=Pengimbas Virus
 GenericName[nb]=Virusskanner
 GenericName[nl]=Virusscanner
 GenericName[nl_BE]=Virusscanner
 GenericName[nn]=Virusskannar
-GenericName[pa]=ਵਿਸ਼ਾਣੂ ਖੋਜੀ"
+GenericName[pa]=ਵਿਸ਼ਾਣੂ ਖੋਜੀ
 GenericName[pl]=Skaner wirusów
 GenericName[pt]=Verificador de vírus
 GenericName[pt_BR]=Antivírus Escaner
@@ -84,9 +85,10 @@ Comment[it]=Analizza per la ricerca di minacce...
 Comment[ja]=ウィルスをスキャンします...
 Comment[km]=វិភាគរកការគំរាមកំហៃង...
 Comment[ko]=위험 요소를 검사합니다...
+Comment[mnw_MM]=စိစောတ်ဂၠိုက်ဂၠာဲအန္တရာယ်
 Comment[ms]=Imbas jika ada ancaman...
-Comment[nl]=Scannen op virussen…
 Comment[nb]=Skann etter virus...
+Comment[nl]=Scannen op virussen…
 Comment[nn]=Skann...
 Comment[pa]=ਧਮਕਿਯਾੰ ਲਈ ਖੋਜ ਕਰੋ
 Comment[pl]=Przeskanuj pliki w poszukiwaniu wirusów...

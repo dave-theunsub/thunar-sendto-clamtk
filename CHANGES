@@ -1,5 +1,13 @@
 CHANGES for thunar-sendto-clamtk:
 
+0.08 - 20240102
+---------------
+    * Add [mnw_MM] to language strings
+    * Fix Punjabi [pa] string in desktop file
+    * Minor man page updates
+    * Minor README.md updates
+    * Update years, 2021 - 2024
+
 0.07 - 20211107
 ---------------
     * Update README to use markdown (README.md)
