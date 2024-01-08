@@ -8,7 +8,7 @@ Last updated 20240102
 
 All this plugin does is copy a desktop file to Thunar's send-to directory.  This provides the ability to right-click on a file or folder/directory to scan it directly, without opening the virus scanner first.
 
-[thunar-sendto-clamtk](https://gitlab.com/dave_m/thunar-sendto-clamtk) is available for Fedora, CentOS (and its derivatives), and Debian/ Ubuntu - or probably any system that can run XFCE.  It is also now available via Fedora's official repositories.
+[thunar-sendto-clamtk](https://gitlab.com/dave_m/thunar-sendto-clamtk) is available for Fedora, CentOS (and its derivatives), and Debian/ Ubuntu - or probably any system that can run XFCE. It is also available via [Fedora](https://packages.fedoraproject.org/pkgs/thunar-sendto-clamtk/thunar-sendto-clamtk/)'s and [openSUSE](https://software.opensuse.org/package/thunar-sendto-clamtk)'s official repositories.
 
 ## Dependencies  
 
