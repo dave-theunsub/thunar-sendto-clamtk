@@ -1,6 +1,7 @@
 Last updated 20240330
 
 Note: This program is no longer maintained.
+https://github.com/dave-theunsub/clamtk/issues/163
 
 # README  
 
