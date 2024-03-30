@@ -1,4 +1,6 @@
-Last updated 20240102
+Last updated 20240330
+
+Note: This program is no longer maintained.
 
 # README  
 
